@@ -1,6 +1,9 @@
 <html>
   <head>
     <title>Hello World</title>
+    <script>
+      alert("HI DAN!");
+    </script>
   </head>
   <body class="cool">
     Hello World!
